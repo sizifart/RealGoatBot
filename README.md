@@ -14,7 +14,7 @@
 |              Support for pyrogram .session               |     ✅     |
 
 
-## [Settings](https://github.com/GravelFire/MajorBot/blob/main/.env-example/)
+## [Settings](https://github.com/sizifart/RealGoatBot/blob/main/.env-example/)
 |        Settings         |                                      Description                                       |
 |:-----------------------:|:--------------------------------------------------------------------------------------:|
 |  **API_ID / API_HASH**  |        Platform data from which to run the Telegram session (default - android)        |
